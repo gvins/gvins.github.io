@@ -1,6 +1,6 @@
 .content {
   border: 1px solid black;
-  position: relative;
+  display: inline-block;
 }
 .schools {
   float: right;
