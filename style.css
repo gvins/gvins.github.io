@@ -8,6 +8,5 @@ div {
 
 .schools {
   width: 300px;
-  position: relative;
-  float: right;
+  float: left;
 }
