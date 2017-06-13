@@ -16,7 +16,7 @@
   clear: left;
 }
 .content {
-  position: absolute;
+  position: relative;
   top: 300px;
 }
 .date {
