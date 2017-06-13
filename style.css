@@ -4,10 +4,14 @@ div {
 .IDpic {
   background: url("gvins.github.io/20170513 portrait 45x35.jpg") center center no-repeat;
   height: 300px;
-  position: absolute;
+  position: fixed;
+  top: 0px;
+  right: 0px;
 }
 .headerBar {
-  position: absolute;
+  position: fixed;
+  top: 0px;
+  left: 0px;
 }
 .container {
   clear: left;
