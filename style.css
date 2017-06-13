@@ -3,13 +3,13 @@ div {
 }
 
 .content {
-  position: relative;
   display: inline-block;
   box-sizing: border-box;
   width: 100%;
 }
 
 .dates {
+  position: relative;
   width: 50px;
 }
 
