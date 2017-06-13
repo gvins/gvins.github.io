@@ -18,6 +18,7 @@
 }
 .content {
   position: absolute;
+  top: 300px;
 }
 .date {
   text-align: center;
