@@ -2,7 +2,7 @@ div {
   border: 1px solid black;
 }
 #IDpic {
-  background: url("gvins.github.io/20170513 portrait 45x35.jpg") center center no-repeat;
+  background-image: url("gvins.github.io/20170513 portrait 45x35.jpg") center center no-repeat;
 }
 .container {
   clear: left;
