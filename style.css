@@ -2,14 +2,12 @@ div {
   border: 1px solid black;
 }
 
-.content {
-  display: inline-block;
-}
-
 .dates {
   width: 50px;
 }
 
 .schools {
   width: 300px;
+  position: relative;
+  float: right;
 }
