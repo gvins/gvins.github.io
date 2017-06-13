@@ -11,4 +11,5 @@ div {
 .description {
   text-align: center;
   float: left;
+  display: inline-block;
 }
