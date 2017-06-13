@@ -6,6 +6,10 @@ div {
   display: inline-block;
 }
 
+.dates {
+  width: 50px;
+}
+
 .schools {
   float: right;
 }
