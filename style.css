@@ -1,5 +1,8 @@
 div {
   border: 1px solid black;
+}
+
+div.education {
   display: inline-block;
 }
 
