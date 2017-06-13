@@ -3,9 +3,7 @@ div {
 }
 
 .content {
-  position: relative;
   display: inline-block;
-  float: left;
 }
 
 .dates {
