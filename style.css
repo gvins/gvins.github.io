@@ -2,6 +2,10 @@ div {
   border: 1px solid black;
 }
 
+.content {
+  display: inline-block;
+}
+
 .schools {
   float: right;
 }
