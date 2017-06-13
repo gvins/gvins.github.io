@@ -8,3 +8,6 @@ div {
 .container {
   clear: left;
 }
+.description {
+  text-align: center;
+}
