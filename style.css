@@ -17,7 +17,7 @@
   clear: left;
 }
 .content {
-  position: relative;
+  position: absolute;
 }
 .date {
   text-align: center;
