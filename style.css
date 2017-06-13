@@ -16,6 +16,9 @@
 .container {
   clear: left;
 }
+.content {
+  position: relative;
+}
 .date {
   text-align: center;
 }
