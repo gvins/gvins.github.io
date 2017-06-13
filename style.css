@@ -1,13 +1,9 @@
 div {
   border: 1px solid black;
 }
-.headerBar {
-  position: fixed;
-}
 #IDpic {
   background: url("gvins.github.io/20170513 portrait 45x35.jpg") center center no-repeat;
   height: 300px;
-  position: fixed;
 }
 .container {
   clear: left;
