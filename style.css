@@ -24,5 +24,6 @@
   text-align: center;
 }
 .logo {
-  height: 1em;
+  width: 30px;
+  height: auto;
 }
