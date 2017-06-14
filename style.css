@@ -24,5 +24,8 @@
   text-align: center;
 }
 #linkedInLogo {
-  width: 50px;
+  width: 100px;
+}
+.connect {
+  display: inline-block;
 }
