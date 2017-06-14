@@ -25,5 +25,6 @@
 }
 #linkedInLogo {
   height: 1em;
+  position: relative;
   bottom: 2px;
 }
