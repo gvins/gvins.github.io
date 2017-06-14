@@ -17,6 +17,9 @@ h1 {
   background-color: white;
   z-index: 1000;
 }
+.quote {
+  padding: 30px 0px;
+}
 .container {
   clear: left;
 }
